@@ -1,33 +1,26 @@
 class Solution {
     public void sortColors(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int low = 0;
+        int mid = 0;
+        int high = nums.length - 1;
 
-        // Count frequencies
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-
-        int idx = 0;
-
-        if (map.containsKey(0)) {
-            int count = map.get(0);
-            for (int i = 0; i < count; i++) {
-                nums[idx++] = 0;
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                swap(nums, low, mid);
+                low++;
+                mid++;
+            } else if (nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums, mid, high);
+                high--;
             }
         }
+    }
 
-        if (map.containsKey(1)) {
-            int count = map.get(1);
-            for (int i = 0; i < count; i++) {
-                nums[idx++] = 1;
-            }
-        }
-
-        if (map.containsKey(2)) {
-            int count = map.get(2);
-            for (int i = 0; i < count; i++) {
-                nums[idx++] = 2;
-            }
-        }
+    public void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
