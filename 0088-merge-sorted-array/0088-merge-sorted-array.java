@@ -1,21 +1,24 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int nums1Pointer = m-1;
-        int nums2Pointer = n-1;
-        int mainPointer = m+n-1;
+        int i = m-1;
+        int j = n-1;
 
-        while (nums1Pointer >= 0 && nums2Pointer >= 0) {
-            if (nums1[nums1Pointer] >= nums2[nums2Pointer]) {
-                nums1[mainPointer] = nums1[nums1Pointer--];
+        int idx = nums1.length-1;
+
+        while(i>=0 && j>=0) {
+            if (nums1[i] >= nums2[j]) {
+                nums1[idx] = nums1[i];
+                i--;
             } else {
-                nums1[mainPointer] = nums2[nums2Pointer--];
+                nums1[idx] = nums2[j];
+                j--;
             }
 
-            mainPointer--;
+            idx--;
         }
 
-        while(nums2Pointer >= 0) {
-            nums1[mainPointer--] = nums2[nums2Pointer--];
+        while(j>=0) {
+            nums1[idx--] = nums2[j--];
         }
     }
 }
