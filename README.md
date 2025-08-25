@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0088-merge-sorted-array](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0088-merge-sorted-array) |
@@ -61,9 +62,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
