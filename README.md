@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
+| [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
