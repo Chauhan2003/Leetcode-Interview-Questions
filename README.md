@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
