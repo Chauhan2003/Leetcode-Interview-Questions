@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3830-find-closest-person](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3830-find-closest-person) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
