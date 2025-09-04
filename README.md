@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
