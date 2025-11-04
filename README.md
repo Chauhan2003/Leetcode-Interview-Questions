@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
