@@ -5,9 +5,7 @@ class Solution {
 
         while (i <= j) {
             if (nums[i] == val) {
-                nums[i] = nums[j];
-
-                j--;
+                nums[i] = nums[j--];
             } else {
                 i++;
             }
