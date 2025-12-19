@@ -137,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
