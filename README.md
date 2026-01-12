@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
