@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [3830-find-closest-person](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
