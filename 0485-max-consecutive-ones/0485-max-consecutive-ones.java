@@ -18,6 +18,10 @@ class Solution {
             i++;
         }
 
-        return Math.max(res, curr);
+        if (i == n) {
+            res = Math.max(res, curr);
+        }
+
+        return res;
     }
 }
