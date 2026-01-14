@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0136-single-number) |
 | [0088-merge-sorted-array](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
