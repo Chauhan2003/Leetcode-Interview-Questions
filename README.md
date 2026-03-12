@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
