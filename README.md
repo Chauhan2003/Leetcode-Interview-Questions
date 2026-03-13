@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
