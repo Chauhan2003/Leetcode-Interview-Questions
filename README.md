@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
