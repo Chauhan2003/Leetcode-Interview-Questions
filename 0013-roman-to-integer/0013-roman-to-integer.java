@@ -13,16 +13,17 @@ class Solution {
     public int romanToInt(String s) {
         int n = s.length();
         int res = 0;
-        
-        for(int i=0;i<n;i++){
+
+        for (int i=0;i<n;i++) {
             int s1 = value(s.charAt(i));
-            if(i+1 < n){
+
+            if (i+1 < n) {
                 int s2 = value(s.charAt(i+1));
 
-                if(s1>=s2){
+                if (s1 >= s2) {
                     res += s1;
                 } else {
-                    res += s2-s1;
+                    res += s2 - s1;
                     i++;
                 }
             } else {
