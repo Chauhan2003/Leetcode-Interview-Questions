@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0485-max-consecutive-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
