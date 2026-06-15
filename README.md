@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0860-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0860-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
