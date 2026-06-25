@@ -3,17 +3,17 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int grid = 0;
-        int cookie = 0;
+        int i = 0;
+        int j = 0;
 
-        while (grid < g.length && cookie < s.length) {
-            if (s[cookie] >= g[grid]) {
-                grid++;
+        while(i < g.length && j < s.length) {
+            if(g[i] <= s[j]) {
+                i++;
             }
 
-            cookie++;
+            j++;
         }
 
-        return grid;
+        return i;
     }
 }
