@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Chauhan2003/150-Leetcode-Interview-Questions/tree/master/0055-jump-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 <!---LeetCode Topics End-->
