@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
