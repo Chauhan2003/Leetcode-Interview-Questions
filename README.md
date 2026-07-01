@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0860-lemonade-change) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0074-search-a-2d-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0547-number-of-provinces) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0547-number-of-provinces) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
