@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0205-isomorphic-strings) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Chauhan2003/Leetcode-Interview-Questions/tree/master/0796-rotate-string) |
 ## Bucket Sort
 |  |
