@@ -3,9 +3,9 @@ class Solution {
         int buy = prices[0];
         int profit = 0;
 
-        for (int ele : prices) {
-            buy = Math.min(ele, buy);
-            profit = Math.max(profit, ele-buy);
+        for (int i=1;i<prices.length;i++) {
+            buy = Math.min(buy, prices[i]);
+            profit = Math.max(profit, prices[i] - buy);
         }
 
         return profit;
