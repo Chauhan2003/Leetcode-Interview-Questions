@@ -1,25 +1,23 @@
 class Solution {
+    Boolean[] dp;
+
     public boolean canJump(int[] nums) {
-        int n = nums.length;
-        Boolean[] dp = new Boolean[n];
-        return solve(nums, n, 0, dp);
+        dp = new Boolean[nums.length];
+        return helper(nums, 0);
     }
 
-    public boolean solve(int[] nums, int n , int idx, Boolean[] dp) {
-        if (idx >= n-1) {
+    public boolean helper(int[] nums, int i) {
+        if (i >= nums.length - 1)
             return true;
+
+        if (dp[i] != null)
+            return dp[i];
+
+        for (int j = 1; j <= nums[i]; j++) {
+            if (i + j < nums.length && helper(nums, i + j))
+                return dp[i] = true;
         }
 
-        if (dp[idx] != null) {
-            return dp[idx];
-        }
-
-        for (int i=1;i<=nums[idx];i++) {
-            if (solve(nums, n, idx+i, dp) == true) {
-                return dp[idx] = true;
-            }
-        }
-
-        return dp[idx] = false;
+        return dp[i] = false;
     }
 }
